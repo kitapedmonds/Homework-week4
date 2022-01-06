@@ -90,8 +90,8 @@ p {
   h1 {
     color: #6c63ff;
   }
-  .app-descrption p {
-    display: block;
+  body {
     text-align: center;
+    display: block;
   }
 }
