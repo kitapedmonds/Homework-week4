@@ -89,9 +89,25 @@ p {
 @media (max-width: 576px) {
   h1 {
     color: #6c63ff;
-  }
-  body {
+    font-size: 48px;
+    line-height: 0.5;
     text-align: center;
+  }
+  h2 {
+    font-size: 30px;
+    text-align: center;
+  }
+  h3 {
+    font-size: 20px;
+    margin-bottom: none;
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
+
+  .primary-link {
     display: block;
+    text-align: center;
   }
 }
